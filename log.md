@@ -13,7 +13,7 @@
 
 ### Day 1: January 28, Saturday
 
-**Today's Progress**: Watched 'Lesson 3: Fundamental Programming Structures in Java' videos and tried code on REPL.
+**Today's Progress**: Watched 'Lesson 3: Fundamental Programming Structures in Java' videos and tried code on REPL. (1hr)
 
 **Thoughts**: Need to find exercises to practice syntax.
 
