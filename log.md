@@ -11,9 +11,10 @@
 
 **Link to exercise:** [Functions on Mutually Recursive Data](https://github.com/ipekt/systematic-program-design/tree/master/ch6b-mutual-reference)
 
-### Day 2: January 28, Saturday
+### Day 1: January 28, Saturday
 
+**Today's Progress**: Watched 'Lesson 3: Fundamental Programming Structures in Java' videos and tried code on REPL.
 
-**Today's Progress**:
+**Thoughts**: Need to find exercises to practice syntax.
 
-**Link to exercise:** [Functions on Mutually Recursive Data](https://github.com/ipekt/systematic-program-design/tree/master/ch6b-mutual-reference)
+**Link to course:** [Core java](https://www.safaribooksonline.com/library/view/core-java/9780134540603/)
