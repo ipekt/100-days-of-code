@@ -44,3 +44,12 @@
 
 **Link to course:** [Core java](https://www.safaribooksonline.com/library/view/core-java/9780134540603/)
 
+### Day 2: January 29, Sunday
+
+**Today's Progress**: Skipped.
+
+### Day 3: January 30, Monday
+
+**Today's Progress**: Finished 'Function on mutually recursive data part-1' exercises (1hr)
+
+**Link to exercise:** [Function on mutually recursive data part-1 exercise](https://github.com/ipekt/systematic-program-design/commit/6cea324a2ae72cba52ff322523154c706973ed4f)
