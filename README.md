@@ -50,6 +50,6 @@
 
 ### Day 3: January 30, Monday
 
-**Today's Progress**: Finished 'Function on mutually recursive data part-1' exercises (1hr)
+**Today's Progress**: Finished 'Function on mutually recursive data part-1' exercises. Finished Backtracking Search videos and started end of chapter practice questions (2hr).
 
 **Link to exercise:** [Function on mutually recursive data part-1 exercise](https://github.com/ipekt/systematic-program-design/commit/6cea324a2ae72cba52ff322523154c706973ed4f)
