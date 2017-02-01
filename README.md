@@ -53,3 +53,15 @@
 **Today's Progress**: Finished 'Function on mutually recursive data part-1' exercises. Finished Backtracking Search videos and started end of chapter practice questions (2hr).
 
 **Link to exercise:** [Function on mutually recursive data part-1 exercise](https://github.com/ipekt/systematic-program-design/commit/6cea324a2ae72cba52ff322523154c706973ed4f)
+
+### Day 4: January 31, Tuesday
+
+**Today's Progress**: Went to a meetup... Skipped.
+
+### Day 5: February 1, Wednesday
+
+**Today's Progress**: Watched arrays and functions in java videos (1hr)
+
+**Today's Progress**: Will go over java videos of 'Computer Science An Interdisciplinery Approach' course because concepts are explained better. 
+
+**Link to course:** [Computer Science An Interdisciplinery Approach](https://www.safaribooksonline.com/library/view/computer-science/9780134465951/)
