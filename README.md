@@ -62,6 +62,18 @@
 
 **Today's Progress**: Watched arrays and functions in java videos (1hr)
 
-**Today's Progress**: Will go over java videos of 'Computer Science An Interdisciplinery Approach' course because concepts are explained better. 
+**Thoughts**: Will go over java videos of 'Computer Science An Interdisciplinery Approach' course because concepts are explained better. 
 
 **Link to course:** [Computer Science An Interdisciplinery Approach](https://www.safaribooksonline.com/library/view/computer-science/9780134465951/)
+
+### Day 6: February 2, Thursday
+
+**Today's Progress**: Went to sydCSS. Skipped.
+
+### Day 7: February 3, Friday
+
+**Today's Progress**: Skipped.
+
+### Day 8: February 4, Saturday
+
+**Today's Progress**:
