@@ -76,4 +76,10 @@
 
 ### Day 8: February 4, Saturday
 
-**Today's Progress**:
+**Today's Progress**: Finished data definition for Mutual Reference quiz (1hr)
+
+### Day 8: February 5, Sunday
+
+**Today's Progress**: Finished Mutual Reference quiz questions (1hr)
+
+**Link to exercise:** [Arthur Weasley Quiz](https://github.com/ipekt/systematic-program-design/blob/master/ch6b-mutual-reference/hp-family-tree-starter.rkt)
