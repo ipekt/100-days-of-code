@@ -78,7 +78,7 @@
 
 **Today's Progress**: Finished data definition for Mutual Reference quiz (1hr)
 
-### Day 8: February 5, Sunday
+### Day 9: February 5, Sunday
 
 **Today's Progress**: Finished Mutual Reference quiz questions (1hr)
 
