@@ -83,3 +83,15 @@
 **Today's Progress**: Finished Mutual Reference quiz questions (1hr)
 
 **Link to exercise:** [Arthur Weasley Quiz](https://github.com/ipekt/systematic-program-design/blob/master/ch6b-mutual-reference/hp-family-tree-starter.rkt)
+
+### Day 10: February 6, Monday
+
+**Today's Progress**: React Meetup + java course videos(30m)
+
+### Day 11: February 7, Tuesday
+
+**Today's Progress**: Wes Bos' Flexbox course (1hr)
+
+**Link to exercise:** [flexbox.io](flexbox.io)
+
+
