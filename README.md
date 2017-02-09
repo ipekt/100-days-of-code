@@ -94,4 +94,7 @@
 
 **Link to exercise:** [flexbox.io](flexbox.io)
 
+### Day 12: February 8, Wednesday
+
+**Today's Progress**: Finish graded end of chapter quiz for Mutual Reference and watched Two One of Types video (30min_
 
