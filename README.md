@@ -96,5 +96,20 @@
 
 ### Day 12: February 8, Wednesday
 
-**Today's Progress**: Finish graded end of chapter quiz for Mutual Reference and watched Two One of Types video (30min_
+**Today's Progress**: Finish graded end of chapter quiz for Mutual Reference and watched Two One of Types video (30min)
+
+### Day 13 - 15: February 9 - 11
+Skipped :(
+
+### Day 16: February 12, Sunday
+
+**Today's Progress**: 
+* Started watching OSCON videos (1hr)
+* Finished objects and classes section in Core Java tutorial (1.5hr)
+
+**Links to videos**
+* [Building Modern Web Apps with Play Framework and Scala - James Ward](https://www.safaribooksonline.com/library/view/oscon-2014-complete/9781491910795/part215.html)
+* [How did I "git" here? A tale of a CS professor - Kyla McMullen](https://www.safaribooksonline.com/library/view/oscon-2016-video/9781491965153/video246720.html)
+* [Core Java](https://www.safaribooksonline.com/library/view/core-java/9780134540603/part26.html)
+
 
