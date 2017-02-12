@@ -106,10 +106,12 @@ Skipped :(
 **Today's Progress**: 
 * Started watching OSCON videos (1hr)
 * Finished objects and classes section in Core Java tutorial (1.5hr)
+* Finished Two One-of-Types videos from Systematic Program Design course (1hr)
 
 **Links to videos**
 * [Building Modern Web Apps with Play Framework and Scala - James Ward](https://www.safaribooksonline.com/library/view/oscon-2014-complete/9781491910795/part215.html)
 * [How did I "git" here? A tale of a CS professor - Kyla McMullen](https://www.safaribooksonline.com/library/view/oscon-2016-video/9781491965153/video246720.html)
 * [Core Java](https://www.safaribooksonline.com/library/view/core-java/9780134540603/part26.html)
 
-
+**Link to exercise:** 
+* [Two One-of-Types](https://github.com/ipekt/systematic-program-design/blob/master/ch7a-two-one-of-types/prefix-equal-starter.rkt)
