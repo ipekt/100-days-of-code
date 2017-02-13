@@ -115,3 +115,11 @@ Skipped :(
 
 **Link to exercise:** 
 * [Two One-of-Types](https://github.com/ipekt/systematic-program-design/blob/master/ch7a-two-one-of-types/prefix-equal-starter.rkt)
+
+### Day 17: February 13, Monday
+
+**Today's Progress**: 
+* Finished first 'Two One-of-Types' practice problem and started second one. (1.5hr)
+
+**Link to exercise:** 
+* [Two One-of-Types Practice Problems](https://github.com/ipekt/systematic-program-design/commit/c802143c471c6f47890b8bda7beba0875a0e4be2)
