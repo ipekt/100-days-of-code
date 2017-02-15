@@ -123,3 +123,18 @@ Skipped :(
 
 **Link to exercise:** 
 * [Two One-of-Types Practice Problems](https://github.com/ipekt/systematic-program-design/commit/c802143c471c6f47890b8bda7beba0875a0e4be2)
+
+### Day 18: February 14, Tuesday
+
+**Today's Progress**: 
+Skipped
+
+### Day 19: February 15, Wednesday
+
+**Today's Progress**: 
+* Started Lesson 5: Inheritance videos from Core Java (30min)
+* Started Java exercises on [exercism.io](http://www.exercism.io/languages/java/exercises) (30min)
+
+**Link to exercise:** 
+[Hello World](http://exercism.io/submissions/cde196c0de0d4f8eb00e4343d9a19824)
+
