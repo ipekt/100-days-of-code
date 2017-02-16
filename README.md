@@ -134,7 +134,15 @@ Skipped
 **Today's Progress**: 
 * Started Lesson 5: Inheritance videos from Core Java (30min)
 * Started Java exercises on [exercism.io](http://www.exercism.io/languages/java/exercises) (30min)
+* Functional Programming Meetup [Building flappy bird with haskell](https://github.com/mchakravarty/lazy-lambda)
 
 **Link to exercise:** 
 [Hello World](http://exercism.io/submissions/cde196c0de0d4f8eb00e4343d9a19824)
 
+### Day 20: February 16, Thursday
+
+**Today's Progress**: [Igor Wiedler - Lisp at Laracon EU 2014](https://youtu.be/FRaNUsiD_BA) (1h)
+
+### Day 21: February 17, Friday
+
+**Today's Progress**: 
