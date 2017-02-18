@@ -145,4 +145,10 @@ Skipped
 
 ### Day 21: February 17, Friday
 
-**Today's Progress**: 
+**Today's Progress**: Read about collections in java (1hr)
+
+### Day 22: February 18, Saturday
+
+**Today's Progress**: Work on second java exercise from exercism (2hr)
+
+**Link to exercise:** [Extract-Transform-Load](http://exercism.io/submissions/9ffd75e018354b7291c2a703b17008cd)
