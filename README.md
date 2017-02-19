@@ -152,3 +152,9 @@ Skipped
 **Today's Progress**: Work on second java exercise from exercism (2hr)
 
 **Link to exercise:** [Extract-Transform-Load](http://exercism.io/submissions/9ffd75e018354b7291c2a703b17008cd)
+
+### Day 23: February 19, Sunday
+
+**Today's Progress** Finish pattern-match exercise and start chapter 7 Local
+
+**Link to exercise:** [pattern-match](https://github.com/ipekt/systematic-program-design/commit/b2e5091f636854237f9e5e9094bc9aa5f3b97c5a)
