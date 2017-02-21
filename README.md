@@ -155,6 +155,11 @@ Skipped
 
 ### Day 23: February 19, Sunday
 
-**Today's Progress** Finish pattern-match exercise and start chapter 7 Local
+**Today's Progress** Finish pattern-match exercise and start chapter 7 Local (1hr)
 
 **Link to exercise:** [pattern-match](https://github.com/ipekt/systematic-program-design/commit/b2e5091f636854237f9e5e9094bc9aa5f3b97c5a)
+
+
+### Day 24: February 20, Monday
+
+**Today's Progress** Finished Systematic Design chapter 7 videos (1hr)
