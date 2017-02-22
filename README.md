@@ -159,7 +159,22 @@ Skipped
 
 **Link to exercise:** [pattern-match](https://github.com/ipekt/systematic-program-design/commit/b2e5091f636854237f9e5e9094bc9aa5f3b97c5a)
 
-
 ### Day 24: February 20, Monday
 
 **Today's Progress** Finished Systematic Design chapter 7 videos (1hr)
+
+### Day 25: February 21, Tuesday
+
+Skipped
+
+### Day 26: February 22, Wednesday
+
+**Today's Progress** Start working on 3rd java exercise on exercism
+
+**Link to exercise:** [nucleotide-count](http://exercism.io/exercises/java/nucleotide-count/readme)
+
+### Day 27: February 23, Thursday
+
+### Day 28: February 24, Friday
+
+### Day 29: February 25, Saturday
