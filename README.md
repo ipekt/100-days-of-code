@@ -169,12 +169,22 @@ Skipped
 
 ### Day 26: February 22, Wednesday
 
-**Today's Progress** Start working on 3rd java exercise on exercism
+**Today's Progress** Start working on 3rd java exercise on exercism (1hr)
 
-**Link to exercise:** [nucleotide-count](http://exercism.io/exercises/java/nucleotide-count/readme)
+**Link to exercise:** [nucleotide-count question](http://exercism.io/exercises/java/nucleotide-count/readme)
 
 ### Day 27: February 23, Thursday
 
+Skipped
+
 ### Day 28: February 24, Friday
 
+Skipped
+
 ### Day 29: February 25, Saturday
+
+**Today's Progress** Finished 3rd java exercise on exercism (30m)
+
+**Link to exercise:** [nucleotide-count](http://exercism.io/submissions/49457f98844b42cba60c5cb39a2fad13)
+
+### Day 30: February 26, Sunday
