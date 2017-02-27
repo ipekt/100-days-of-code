@@ -188,3 +188,11 @@ Skipped
 **Link to exercise:** [nucleotide-count](http://exercism.io/submissions/49457f98844b42cba60c5cb39a2fad13)
 
 ### Day 30: February 26, Sunday
+
+**Today's Progress** Start end of chapter design quiz (SPD) (30m)
+
+### Day 31: February 27, Monday
+
+**Today's Progress** Finish end of chapter design quiz (SPD) and start first design quiz (1hr)
+
+**Link to exercise:** [SPD2-Design-Quiz-2](https://github.com/ipekt/systematic-program-design/blob/master/ch7a-two-one-of-types/SPD2-Design-Quiz-2.rkt)
