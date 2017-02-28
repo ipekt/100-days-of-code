@@ -196,3 +196,7 @@ Skipped
 **Today's Progress** Finish end of chapter design quiz (SPD) and start first design quiz (1hr)
 
 **Link to exercise:** [SPD2-Design-Quiz-2](https://github.com/ipekt/systematic-program-design/blob/master/ch7a-two-one-of-types/SPD2-Design-Quiz-2.rkt)
+
+### Day 32: February 28, Tuesday
+
+**Today's Progress** Watched [Asynchronous programming in Java 8: how to use CompletableFuture by José Paumard](https://youtu.be/HdnHmbFg_hw) (1hr)
