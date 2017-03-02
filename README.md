@@ -200,3 +200,7 @@ Skipped
 ### Day 32: February 28, Tuesday
 
 **Today's Progress** Watched [Asynchronous programming in Java 8: how to use CompletableFuture by José Paumard](https://youtu.be/HdnHmbFg_hw) (1hr)
+
+### Day 33: March 1, Wednesday
+
+**Today's Progress** Read about threads and futures in java(1hr). Work on SPD design quiz(30m)
