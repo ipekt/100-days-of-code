@@ -204,3 +204,8 @@ Skipped
 ### Day 33: March 1, Wednesday
 
 **Today's Progress** Read about threads and futures in java(1hr). Work on SPD design quiz(30m)
+
+### Day 34: March 2, Thursday
+
+**Today's Progress** Watched [Java 8 (and 9!) in Anger by Trisha Gee](https://youtu.be/miV7Ws7DODY) (1hr)
+
