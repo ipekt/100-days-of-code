@@ -209,3 +209,12 @@ Skipped
 
 **Today's Progress** Watched [Java 8 (and 9!) in Anger by Trisha Gee](https://youtu.be/miV7Ws7DODY) (1hr)
 
+### Day 35: March 3, Friday
+
+Skipped
+
+### Day 36: March 4, Saturday
+
+**Today's Progress** Finished Systematic Program Design Part 2 !!! (1hr)
+
+**Link to course:** [SPD2](https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd2x)
