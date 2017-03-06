@@ -218,3 +218,13 @@ Skipped
 **Today's Progress** Finished Systematic Program Design Part 2 !!! (1hr)
 
 **Link to course:** [SPD2](https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd2x)
+
+### Day 36: March 5, Sunday
+
+Skipped
+
+### Day 37: March 6, Monday
+
+**Today's Progress** Started working on next java exercise from exercism
+
+**Link to exercise:** [Rna Transcription](http://exercism.io/exercises/java/rna-transcription/readme)
