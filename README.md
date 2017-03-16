@@ -228,3 +228,15 @@ Skipped
 **Today's Progress** Started working on next java exercise from exercism
 
 **Link to exercise:** [Rna Transcription](http://exercism.io/exercises/java/rna-transcription/readme)
+
+### Day 38 - 45: March 7 -14
+
+Holiday
+
+### Day 46: March 15, Wednesday
+
+**Today's Progress** [SydJS](http://www.sydjs.com/meetups) - talks about elm, functional programming, flowtype. 
+
+### Day 47: March 16, Thursday
+
+**Today's Progress** [Progressive Web App Roadshow by Google](https://events.withgoogle.com/pwa-roadshow-sydney/agenda/#content) - full day event
