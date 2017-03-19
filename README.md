@@ -240,3 +240,18 @@ Holiday
 ### Day 47: March 16, Thursday
 
 **Today's Progress** [Progressive Web App Roadshow by Google](https://events.withgoogle.com/pwa-roadshow-sydney/agenda/#content) - full day event
+
+### Day 47: March 17-18
+skipped
+
+### Day 48: March 19, Sunday
+
+**Today's Progress** Work on exercisim java questions (1.5hr). Practiced terminal commands (30m)
+
+**Link to exercise:**
+
+[RnaTranscription](http://exercism.io/submissions/49b322720e2f47ea8c7a134e2d7c3788) (4/10)
+
+[PangramChecker](http://exercism.io/submissions/c5ec250bf7854e5cbe4c6eb47f66d092) (5/10)
+
+[the-terminal](http://furbo.org/2014/09/03/the-terminal/)
