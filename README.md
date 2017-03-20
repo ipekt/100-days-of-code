@@ -255,3 +255,11 @@ skipped
 [PangramChecker](http://exercism.io/submissions/c5ec250bf7854e5cbe4c6eb47f66d092) (5/10)
 
 [the-terminal](http://furbo.org/2014/09/03/the-terminal/)
+
+### Day 49: March 20, Monday
+
+**Today's Progress** Work on exercisim java questions (30m).
+
+**Link to exercise:**
+
+[Hamming](http://exercism.io/submissions/b88807986883400ca3747633f202313e)
